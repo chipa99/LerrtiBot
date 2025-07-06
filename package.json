@@ -1,0 +1,17 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Suslov Savely, Lerrti",
+  "license": "ISC",
+  "description": "Telegram bot of mine",
+  "dependencies": {
+    "dotenv": "^17.0.1",
+    "grammy": "^1.36.3",
+    "nodemon": "^3.1.10"
+  }
+}
